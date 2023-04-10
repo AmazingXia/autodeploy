@@ -1,0 +1,29 @@
+{
+  "projectName": "",
+  "branch": "",
+  "jira": "",
+  "env": "",
+  "qa": "",
+  "pmo": "",
+  "op": "",
+  "stop": false,
+  "rebuild": true,
+  "projectNameTuple": [
+  ],
+  "qaTuple": [
+  ],
+  "branchTuple": [
+  ],
+  "jiraTuple": [
+  ],
+  "reviewTuple": [
+  ],
+  "pmoTuple": [
+  ],
+  "opTuple": [
+  ],
+  "history": {
+  },
+  "method": "auto",
+  "delay": "120"
+}
